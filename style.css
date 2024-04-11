@@ -7,7 +7,7 @@
 
 header {
     background-color: #374bbe;
-    color: white;
+    color: rgb(255, 255, 255);
     }
 
 .imagem {
@@ -15,7 +15,7 @@ header {
  }
 
 .cabecalho {
-    background-color: #383d58;
+    background-color: #0528f1;
     color: white;
     display: flex;
     justify-content: space-around;
